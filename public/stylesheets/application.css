@@ -1,0 +1,30 @@
+body {
+	background-color: #f9f9f9;
+	color: #808080;
+	margin: 0;
+	font-family: helvetica;
+}
+
+#page {
+	width: 760px;
+	margin: 0 auto;
+}
+
+#navigation {
+	background-color: #000;
+	border-bottom: 15px solid #444;
+	width: 100%;
+	text-align: right;
+	padding: 10px 0;
+}
+
+#navigation a {
+	color: #FFF;
+	text-decoration: none;
+	width: 100%;
+	margin: 0 10px 0 0;
+}
+
+.accent_color {
+	color: #41b5ff;
+}
